@@ -10,6 +10,6 @@
 - ⚡ Fun fact: Adoro a série supernatural e sou fã da banda de rock AC/DC
 
 ![Hesau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesauhugo&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesauhugo&theme=onedark)](https://github.com/hesauhugo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesauhugo&theme=onedark&&layout=compact)](https://github.com/hesauhugo/github-readme-stats)
 
 <!--- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance --->
