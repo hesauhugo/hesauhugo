@@ -43,7 +43,7 @@
 ## DotNet - PPGMNE
 * <a href="https://github.com/hesauhugo/PPGMNE_Problema_Do_Transporte">problema-do-transporte</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_1">pickup-and-delivery-problem-1</a>
-* * <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_2">pickup-and-delivery-problem-2</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_2">pickup-and-delivery-problem-2</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Maquinas_Paralelas">maquinas-paralelas</a>
 * <a href="https://github.com/hesauhugo/DotNet_Lista_Linq">Linq</a>
 * <a href="https://github.com/hesauhugo/MDSLEI-KE">modelo-multi-estagio-de-dimensionamento-de-lotes</a>
