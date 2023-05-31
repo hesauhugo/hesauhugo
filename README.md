@@ -55,9 +55,6 @@
 * <a href="https://github.com/hesauhugo/PPGMNE_Programacao_Linear_Pyomo">programacao-linear-pyomo</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_PIOR">programacao-inteira-otimizacao-em-redes</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_UPMS_VND">maquinas-paralelas-não-relacionadas-vnd</a>
-* <a href=""> </a>
-* <a href=""> </a>
-* <a href=""> </a>
 
 ## Cloud - CLoud Treinamentos
 * <a href="https://github.com/hesauhugo/AWS_Especializacao">aws-especializacao</a>
