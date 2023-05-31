@@ -16,30 +16,56 @@
 
 <!--- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance --->
 
-# Desafios
+# Repositórios
+
+# ## DotNet - Desafios
 * <a href="https://github.com/hesauhugo/trilha-net-banco-de-dados-desafio">trilha-net-banco-de-dados-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-poo-desafio">trilha-net-poo-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-explorando-desafio">trilha-net-explorando-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-fundamentos-desafio">trilha-net-fundamentos-desafio</a>
 
-# Projetos
-
-## DotNet
-
+## DotNet - Projetos
 * <a href="https://github.com/hesauhugo/DotNet_Estrutura">estrutura</a>
 * <a href="https://github.com/hesauhugo/DotNet_Propriedades_Metodos_Construtores">propriedade-metodos-construtores</a>
 * <a href="https://github.com/hesauhugo/DotNet_Excecoes_Colecoes">excecoes-colecoes</a>
 * <a href="https://github.com/hesauhugo/DotNet_Tupla_Ternario_Objeto">tupla-ternario-objetos</a>
 * <a href="https://github.com/hesauhugo/DotNet_Nuget_Serializar_Atributos">nuget-serializar-atributos</a>
 * <a href="https://github.com/hesauhugo/DotNet_Tipos_Especiais">tipos-especiais</a>
-* <a href=""> </a>
+* <a href="https://github.com/hesauhugo/DotNet_Abstracao_Encapsulamento">abstracao-encapsulamento</a>
+* <a href="https://github.com/hesauhugo/DotNet_Heranca_Polimorfismo">heranca-polimorfismo</a>
+* <a href="https://github.com/hesauhugo/DotNet_Classes_Abstratas_Interfaces">classes-abstratas-interfaces</a>
+* <a href="https://github.com/hesauhugo/DataBase_Introducao_SQL_Server">sql-server-introducao</a>
+* <a href="https://github.com/hesauhugo/DataBase_SQL_Server_Manipulando_Dados">sql-server-manipulando-dados</a>
+* <a href="https://github.com/hesauhugo/DataBase_SQLServer_Constraints_Funcoes_Procedures">sql-server-constraints-funcoes-procedures</a>
+* <a href="https://github.com/hesauhugo/DataBase_MongoDB_Nao_Relacional">mongodb-nao-relacional</a>
+* <a href="https://github.com/hesauhugo/DotNet_Introducao_API">introducao-apis</a>
 
-## Python
+## DotNet - PPGMNE
+* <a href="https://github.com/hesauhugo/PPGMNE_Problema_Do_Transporte">problema-do-transporte</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_1">pickup-and-delivery-problem-1</a>
+* * <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_2">pickup-and-delivery-problem-2</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Maquinas_Paralelas">maquinas-paralelas</a>
+* <a href="https://github.com/hesauhugo/DotNet_Lista_Linq">Linq</a>
+* <a href="https://github.com/hesauhugo/MDSLEI-KE">modelo-multi-estagio-de-dimensionamento-de-lotes</a>
+
+## Python - PPGMNE e Coursera
 * <a href="https://github.com/hesauhugo/PPGMNE_Analise_Numerica">analise-numerica</a>
 * <a href="https://github.com/hesauhugo/Coursera_Data_Analysis_With_Python">coursera-data-analisis-with-python</a>
+* <a href="https://github.com/hesauhugo/Coursera_Data_Visualisation_With_Python">coursera-data-visualization-with-python</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Programacao_Linear_Pyomo">programacao-linear-pyomo</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_PIOR">programacao-inteira-otimizacao-em-redes</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_UPMS_VND">maquinas-paralelas-não-relacionadas-vnd</a>
+* <a href=""> </a>
+* <a href=""> </a>
 * <a href=""> </a>
 
-## Outros
+## Cloud - CLoud Treinamentos
+* <a href="https://github.com/hesauhugo/AWS_Especializacao">aws-especializacao</a>
+
+## Outros - FIAP e PPGMNE
 * <a href="https://github.com/hesauhugo/DSA_FIAPhttps://github.com/hesauhugo/DSA_FIAP">data-science-fiap</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Caxeiro_Viajante_CPP">caxeiro-viajante-cpp</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Programacao_Matematica_R">programacao-matematica-r</a>
+* <a href="https://github.com/hesauhugo/PPGMNE_Combinatorial_Optimization_Aulas">combinatorial-optimization-aulas</a>
 * <a href=""> </a>
-* <a href=""> </a>
+
