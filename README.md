@@ -39,6 +39,7 @@
 * <a href="https://github.com/hesauhugo/DataBase_SQLServer_Constraints_Funcoes_Procedures">sql-server-constraints-funcoes-procedures</a>
 * <a href="https://github.com/hesauhugo/DataBase_MongoDB_Nao_Relacional">mongodb-nao-relacional</a>
 * <a href="https://github.com/hesauhugo/DotNet_Introducao_API">introducao-apis</a>
+* <a href="https://github.com/hesauhugo/DotNet_EntityFramework_CRUD">api-crud-entityframework</a>
 
 ## DotNet - PPGMNE
 * <a href="https://github.com/hesauhugo/PPGMNE_Problema_Do_Transporte">problema-do-transporte</a>
