@@ -11,8 +11,8 @@
 
 |                 |
 | :-------------: |
-| ![Hesau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesauhugo&show_icons=true&theme=onedark&size_weight=0.5&count_weight=0.5) |
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesauhugo&theme=onedark&&layout=compact)](https://github.com/hesauhugo/github-readme-stats) |
+| ![Hesau's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesauhugo&show_icons=true&theme=onedark) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesauhugo&theme=onedark&layout=compact&size_weight=0.3&count_weight=0.7)](https://github.com/hesauhugo/github-readme-stats) |
 
 <!--- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance --->
 
