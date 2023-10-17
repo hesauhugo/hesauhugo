@@ -23,7 +23,7 @@
 * <a href="https://github.com/hesauhugo/trilha-net-poo-desafio">trilha-net-poo-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-explorando-desafio">trilha-net-explorando-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-fundamentos-desafio">trilha-net-fundamentos-desafio</a>
-* <a href="https://github.com/hesauhugo/trilha-net-api-desafio>trilha-net-api-desafio</a>
+* <a href="https://github.com/hesauhugo/trilha-net-api-desafio">trilha-net-api-desafio</a>
 
 ## DotNet - Projetos
 * <a href="https://github.com/hesauhugo/DotNet_Estrutura">estrutura</a>
