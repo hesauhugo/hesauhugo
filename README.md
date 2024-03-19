@@ -19,7 +19,7 @@
 # Repositórios
 ## MBA em Engenharia de Software
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">Métodos Ágeis</a>
-* <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">Ambiente de Ensino e Aprendizado EAD</a>
+* <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">Ambiente de Ensino e Aprendizagem EAD</a>
 
 ## Redes Neurais Artificiais 
 * <a href="https://github.com/hesauhugo/RNA_Perceptron">perceptron</a>
