@@ -18,12 +18,12 @@
 
 # Repositórios
 ## MBA em Engenharia de Software
-* <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">Métodos Ágeis</a>
-* <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">Ambiente de Ensino e Aprendizagem EAD</a>
+* <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">métodos-ágeis</a>
+* <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">ambiente-de-ensino-e-aprendizagem-EAD</a>
 
 ## Redes Neurais Artificiais 
 * <a href="https://github.com/hesauhugo/RNA_Perceptron">perceptron</a>
-* <a href="https://github.com/hesauhugo/RNA_Adalaine_-_MLP">Adalaine e Multilayer Perceptron</a>
+* <a href="https://github.com/hesauhugo/RNA_Adalaine_-_MLP">adaline-e-multilayer-perceptron</a>
 ## DotNet - Desafios
 * <a href="https://github.com/hesauhugo/trilha-net-banco-de-dados-desafio">trilha-net-banco-de-dados-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-poo-desafio">trilha-net-poo-desafio</a>
