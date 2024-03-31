@@ -24,6 +24,7 @@
 ## Redes Neurais Artificiais 
 * <a href="https://github.com/hesauhugo/RNA_Perceptron">perceptron</a>
 * <a href="https://github.com/hesauhugo/RNA_Adalaine_-_MLP">adaline-e-multilayer-perceptron</a>
+* <a href="https://github.com/hesauhugo/RNA_RBF">rbf</a>
 ## DotNet - Desafios
 * <a href="https://github.com/hesauhugo/trilha-net-banco-de-dados-desafio">trilha-net-banco-de-dados-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-poo-desafio">trilha-net-poo-desafio</a>
