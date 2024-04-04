@@ -14,7 +14,7 @@
   <span> 👯 Estou em busca de colaborar com desenvolvimento de back-end em C# e front-end com React.js</span>
   <br/>
   <h2>Contatos</h2> 
-  <a href="hesau.hugo@gmail.com">
+  <a href="mailto:hesau.hugo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
     <a href="https://www.linkedin.com/in/hesauhugocavalcanti/">
