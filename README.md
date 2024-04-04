@@ -17,7 +17,7 @@
   <a href="hesau.hugo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-    <a href="hesau.hugo@gmail.com](https://www.linkedin.com/in/hesauhugocavalcanti/">
+    <a href="https://www.linkedin.com/in/hesauhugocavalcanti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
