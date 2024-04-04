@@ -1,29 +1,44 @@
-# Hesau Hugo Cavalcanti
-## Bem vindo ao meu GitHub 
 
-- 🔭 Trabalhando atualmente como Desenvolvedor de Sistemas na Forsell Sistemas ...
-- 🌱 Engenheiro de produção pela UGV(2018) e Mestre em Métodos Numéricos em Engenharia pela UFPR (2023) ...
-- 👯 Estou em busca de colaborar com desenvolvimento de back-end ...
-- 🤔 Busco ajuda em desenvolvimento de sistemas integrados com Cloud ...
-- 💬 Pergunte me coisas relacionadas a análise e desenvolvimento de sistemas ...
-- 📫 Entre em contato pelo e-mail: hesau.hugo@gmail.com ...
-- 😄 Pronouns: Ele/Dele...
-- ⚡ Fun fact: Adoro a série supernatural e sou fã da banda de rock AC/DC
 
-## GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hesauhugo&show_icons=true&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hesauhugo&theme=onedark&layout=compact"/>
+  <h1>Hesau Hugo Cavalcanti</h1>
+  <h2>Bem vindo ao meu GitHub</h2> 
+  <span>🔭 Desenvolvedor de Sistemas na Forsell Sistemas</span>
+  <br/>
+  <span>🌱 Engenheiro de produção (UGV, 2018)</span>
+  <br/>
+  <span>🌱 Mestre em Métodos Numéricos em Engenharia (UFPR, 2023)</span>
+  <br/>
+  <span> 🌱 MBA em Engenharia de Software (UTFPR, 2025)  </span>
+  <br/>
+  <span> 👯 Estou em busca de colaborar com desenvolvimento de back-end em C# e front-end com React.js</span>
+  <br/>
+  <h2>Contatos</h2> 
+  <a href="hesau.hugo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+    <a href="hesau.hugo@gmail.com](https://www.linkedin.com/in/hesauhugocavalcanti/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
-## Backend
+<div align="center">
+  <h1>Skills</h1>
+</div>
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hesauhugo&show_icons=true&theme=onedark"/>
+</div>
+
+### Backend
 <div align="center">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
     
-## Frontend
+### Frontend
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,7 +51,7 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </div>
 
-## Databases
+### Databases
 
 <div align="center">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -46,32 +61,33 @@
   <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
 </div>
 
-## Cloud
+### Cloud
 
 <div align="center">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </div>
 
-<!--- https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance --->
+<div align="center">
+  <h1>Repositórios</h1>
+</div>
 
-# Repositórios
-## MBA em Engenharia de Software
+### MBA em Engenharia de Software
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">métodos-ágeis</a>
 * <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">ambiente-de-ensino-e-aprendizagem-EAD</a>
 
-## Redes Neurais Artificiais 
+### Redes Neurais Artificiais 
 * <a href="https://github.com/hesauhugo/RNA_Perceptron">perceptron</a>
 * <a href="https://github.com/hesauhugo/RNA_Adalaine_-_MLP">adaline-e-multilayer-perceptron</a>
 * <a href="https://github.com/hesauhugo/RNA_RBF">rbf</a>
-## DotNet - Desafios
+### DotNet - Desafios
 * <a href="https://github.com/hesauhugo/trilha-net-banco-de-dados-desafio">trilha-net-banco-de-dados-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-poo-desafio">trilha-net-poo-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-explorando-desafio">trilha-net-explorando-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-fundamentos-desafio">trilha-net-fundamentos-desafio</a>
 * <a href="https://github.com/hesauhugo/trilha-net-api-desafio">trilha-net-api-desafio</a>
 
-## DotNet - Projetos
+### DotNet - Projetos
 * <a href="https://github.com/hesauhugo/DotNet_Estrutura">estrutura</a>
 * <a href="https://github.com/hesauhugo/DotNet_Propriedades_Metodos_Construtores">propriedade-metodos-construtores</a>
 * <a href="https://github.com/hesauhugo/DotNet_Excecoes_Colecoes">excecoes-colecoes</a>
@@ -89,7 +105,7 @@
 * <a href="https://github.com/hesauhugo/DotNet_EntityFramework_CRUD">api-crud-entityframework</a>
 * <a href="https://github.com/hesauhugo/DotNet_FrontEnd_ASPNET_MVC">frontend-aspnet-mvc</a>
 
-## DotNet - PPGMNE
+### DotNet - PPGMNE
 * <a href="https://github.com/hesauhugo/PPGMNE_Problema_Do_Transporte">problema-do-transporte</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_1">pickup-and-delivery-problem-1</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Pickup_And_Delivery_Problem_2">pickup-and-delivery-problem-2</a>
@@ -97,7 +113,7 @@
 * <a href="https://github.com/hesauhugo/DotNet_Lista_Linq">Linq</a>
 * <a href="https://github.com/hesauhugo/MDSLEI-KE">modelo-multi-estagio-de-dimensionamento-de-lotes</a>
 
-## Python - PPGMNE e Coursera
+### Python - PPGMNE e Coursera
 * <a href="https://github.com/hesauhugo/PPGMNE_Analise_Numerica">analise-numerica</a>
 * <a href="https://github.com/hesauhugo/Coursera_Data_Analysis_With_Python">coursera-data-analisis-with-python</a>
 * <a href="https://github.com/hesauhugo/Coursera_Data_Visualisation_With_Python">coursera-data-visualization-with-python</a>
@@ -106,15 +122,15 @@
 * <a href="https://github.com/hesauhugo/PPGMNE_UPMS_VND">maquinas-paralelas-não-relacionadas-vnd</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Busca_Tabu_IRACE">otimizacao-combinatoria-busca-tabu</a>
 
-## Cloud - CLoud Treinamentos
+### Cloud - CLoud Treinamentos
 * <a href="https://github.com/hesauhugo/AWS_Especializacao">aws-especializacao</a>
 
-## Outros - FIAP e PPGMNE
+### Outros - FIAP e PPGMNE
 * <a href="https://github.com/hesauhugo/DSA_FIAPhttps://github.com/hesauhugo/DSA_FIAP">data-science-fiap</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Caxeiro_Viajante_CPP">caxeiro-viajante-cpp</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Programacao_Matematica_R">programacao-matematica-r</a>
 * <a href="https://github.com/hesauhugo/PPGMNE_Combinatorial_Optimization_Aulas">combinatorial-optimization-aulas</a>
 * <a href=""> </a>
 
-## Math
+### Math
 * <a href="https://github.com/hesauhugo/Math">Math</a>
