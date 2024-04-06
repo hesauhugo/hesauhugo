@@ -91,6 +91,7 @@
 * <a href="https://github.com/hesauhugo/trilha-net-api-desafio">trilha-net-api-desafio</a>
 * <a href="https://github.com/hesauhugo/dio-lab-open-source">projeto-open-source</a>
 * <a href="https://github.com/hesauhugo/trilha-net-testes-unitarios-desafio">trilha-net-testes-unitarios-desafio</a>
+* <a href="https://github.com/hesauhugo/dio-desafio-tdd">dio-desafio-tdd-algoritmos-ordenacao</a>
 
 ### DotNet - Projetos
 * <a href="https://github.com/hesauhugo/DotNet_Estrutura">estrutura</a>
