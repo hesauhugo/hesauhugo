@@ -79,6 +79,7 @@
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">métodos-ágeis</a>
 * <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">ambiente-de-ensino-e-aprendizagem-EAD</a>
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis_TDD">métodos-ágeis-tarefa-tdd</a>
+* <a href="https://github.com/hesauhugo/MBA_Gestao_Requisitos">gestão-de-requisitos</a>
 
 ### Redes Neurais Artificiais 
 * <a href="https://github.com/hesauhugo/RNA_Perceptron">perceptron</a>
