@@ -75,6 +75,9 @@
 ### React.js
 * <a href="https://github.com/hesauhugo/nlw-unite-react-04-2024">nlw15-reactjs</a>
 
+### Node.js
+* <a href="https://github.com/hesauhugo/nlw-journey-nodejs">nlw-journey-nodejs</a>
+
 ### MBA em Engenharia de Software
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">métodos-ágeis</a>
 * <a href="https://github.com/hesauhugo/MBA_Ambiente_Ensino_EAD">ambiente-de-ensino-e-aprendizagem-EAD</a>
