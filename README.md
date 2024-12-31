@@ -78,6 +78,7 @@
 ### Node.js
 * <a href="https://github.com/hesauhugo/nlw-journey-nodejs">nlw-journey-nodejs</a>
 * <a href="https://github.com/hesauhugo/javascript-developer-m1">dio-javascript-developer-m1</a>
+* <a href="https://github.com/hesauhugo/js-developer-pokedex">dio-js-developer-pokedex</a>
 
 ### MBA em Engenharia de Software
 * <a href="https://github.com/hesauhugo/MBA_Metodos_Ageis">métodos-ágeis</a>
