@@ -3,7 +3,9 @@
 <div align="center">
   <h1>Hesau Hugo Cavalcanti</h1>
   <h2>Bem vindo ao meu GitHub</h2> 
-  <span>🔭 Desenvolvedor de Sistemas na Forsell Sistemas</span>
+  <span>🔭 Desenvolvedor de Sistemas 8+ anos experiência em desenvolvimento de software</span>
+  <br/>
+  <span>🔭 Atualmente trabalhando na T2M/BTG</span>
   <br/>
   <span>🌱 Engenheiro de produção (UGV, 2018)</span>
   <br/>
