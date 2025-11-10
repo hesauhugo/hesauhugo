@@ -150,3 +150,6 @@
 
 ### Math
 * <a href="https://github.com/hesauhugo/Math">Math</a>
+
+### Dotnet - NWE
+* <a href="https://github.com/hesauhugo/nwe-clean-arch">nwe-clean-arch</a>
