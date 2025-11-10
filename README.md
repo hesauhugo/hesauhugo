@@ -153,3 +153,4 @@
 
 ### Dotnet - NWE
 * <a href="https://github.com/hesauhugo/nwe-clean-arch">nwe-clean-arch</a>
+* <a href="https://github.com/hesauhugo/nwe-teste-cobertura">nwe-teste-cobertura</a>
