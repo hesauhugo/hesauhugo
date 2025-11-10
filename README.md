@@ -154,3 +154,6 @@
 ### Dotnet - NWE
 * <a href="https://github.com/hesauhugo/nwe-clean-arch">nwe-clean-arch</a>
 * <a href="https://github.com/hesauhugo/nwe-teste-cobertura">nwe-teste-cobertura</a>
+* <a href="https://github.com/hesauhugo/nwe-teste-integracao">nwe-teste-integracao</a>
+* <a href="https://github.com/hesauhugo/nwe-teste-TDD-hexagonal">nwe-teste-TDD-hexagonal</a>
+* <a href="https://github.com/hesauhugo/nwe-teste-unitario">nwe-teste-unitario</a>
